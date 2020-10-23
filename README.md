@@ -3,6 +3,6 @@
 
 Project Members:
 Jackson Levitt
-Justin
-Kellow
-Murgurt is Back
+Justin Cheng
+Chase Kellough
+Andrew Bradbury
