@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-10-30T21:48:02.268-04:00
+  lastUpdatedAtString: 2020-10-30T21:48:17.589-04:00
   initializedAtString: 2020-10-30T21:47:07.590-04:00
   entries:
   - path: 219FinalProject\Library\gfu\cache\gitlog.yaml
@@ -21,7 +21,7 @@ MonoBehaviour:
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: 219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
