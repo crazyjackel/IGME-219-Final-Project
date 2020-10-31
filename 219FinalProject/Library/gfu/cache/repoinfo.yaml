@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-10-30T21:28:51.057-04:00
-  initializedAtString: 2020-10-30T21:28:51.057-04:00
+  lastUpdatedAtString: 2020-10-30T21:43:20.760-04:00
+  initializedAtString: 2020-10-30T21:43:20.760-04:00
   currentGitRemote:
-    name: github-desktop-ChaseKellow
-    url: https://github.com/ChaseKellow/IGME-219-Final-Project.git
+    name: origin
+    url: https://github.com/crazyjackel/IGME-219-Final-Project.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: pr/5
-    tracking: github-desktop-ChaseKellow/pr/5
+    name: pr/5-main
+    tracking: origin/pr/5-main
   currentConfigBranch:
-    name: pr/5
+    name: pr/5-main
     remote:
-      name: github-desktop-ChaseKellow
-      url: https://github.com/ChaseKellow/IGME-219-Final-Project.git
-    trackingBranch: main
+      name: origin
+      url: https://github.com/crazyjackel/IGME-219-Final-Project.git
+    trackingBranch: pr/5-main
   currentConfigRemote:
-    name: github-desktop-ChaseKellow
-    url: https://github.com/ChaseKellow/IGME-219-Final-Project.git
+    name: origin
+    url: https://github.com/crazyjackel/IGME-219-Final-Project.git
   currentHead: 
