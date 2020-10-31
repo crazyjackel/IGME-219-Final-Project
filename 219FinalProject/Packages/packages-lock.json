@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.igme202.fpscontrollerim": {
-      "version": "file:C:/Users/chase/Downloads/igme202-FPSController-master",
+      "version": "file:D:/Docs/Git/IGME-219-Final-Project/igme202-FPSController-master",
       "depth": 0,
       "source": "local",
       "dependencies": {}
