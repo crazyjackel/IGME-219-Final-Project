@@ -13,9 +13,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-10-30T21:47:46.956-04:00
+  lastUpdatedAtString: 2020-10-30T21:48:02.030-04:00
   initializedAtString: 2020-10-30T21:47:46.879-04:00
   log:
+  - commitID: 74c513ebf51afc9668aab98b7d580963470b99b8
+    mergeA: 
+    mergeB: 
+    authorName: Jackson Levitt
+    authorEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitName: Jackson Levitt
+    summary: Git Fixes part 2
+    description: 
+    timeString: 2020-10-30T21:48:00.000-04:00
+    commitTimeString: 2020-10-30T21:48:00.000-04:00
+    changes:
+    - path: 219FinalProject\Library\SourceAssetDB
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 9ae25f8125eb06414083e1fa72aec91d437a1399
     mergeA: 
     mergeB: 
