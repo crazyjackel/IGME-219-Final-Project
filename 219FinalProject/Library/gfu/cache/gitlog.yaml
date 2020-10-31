@@ -13,9 +13,1371 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-10-30T21:29:05.883-04:00
-  initializedAtString: 2020-10-30T21:29:05.883-04:00
+  lastUpdatedAtString: 2020-10-30T21:47:46.956-04:00
+  initializedAtString: 2020-10-30T21:47:46.879-04:00
   log:
+  - commitID: 9ae25f8125eb06414083e1fa72aec91d437a1399
+    mergeA: 
+    mergeB: 
+    authorName: Jackson Levitt
+    authorEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitName: Jackson Levitt
+    summary: Git Fixes
+    description: 
+    timeString: 2020-10-30T21:47:45.000-04:00
+    commitTimeString: 2020-10-30T21:47:45.000-04:00
+    changes:
+    - path: 219FinalProject\Library\ArtifactDB
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\SourceAssetDB
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 80914ce479e28a841667583fe49951081e9a6c5d
+    mergeA: 
+    mergeB: 
+    authorName: Jackson Levitt
+    authorEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitName: Jackson Levitt
+    summary: Gitignore fixes
+    description: 
+    timeString: 2020-10-30T21:46:36.000-04:00
+    commitTimeString: 2020-10-30T21:46:36.000-04:00
+    changes:
+    - path: 219FinalProject\Library\ArtifactDB
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\01\01a202e28be4c1f47715d05309ec697e
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\01\01a202e28be4c1f47715d05309ec697e
+      projectPath: Library\Artifacts\01\01a202e28be4c1f47715d05309ec697e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+      projectPath: Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\06\069dc15d4660dc03295c99697cebbe5f
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\06\069dc15d4660dc03295c99697cebbe5f
+      projectPath: Library\Artifacts\06\069dc15d4660dc03295c99697cebbe5f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\11\11217f812b9d323c391557b5eccd9875
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\11\11217f812b9d323c391557b5eccd9875
+      projectPath: Library\Artifacts\11\11217f812b9d323c391557b5eccd9875
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\11\11d410c4f154d129a7c45f7f951625b5
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\11\11d410c4f154d129a7c45f7f951625b5
+      projectPath: Library\Artifacts\11\11d410c4f154d129a7c45f7f951625b5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\19\19df7789389c938580e245859fe88a3a
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\19\19df7789389c938580e245859fe88a3a
+      projectPath: Library\Artifacts\19\19df7789389c938580e245859fe88a3a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\2a\2a8907af21cea816a55391e6650f870f
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\2a\2a8907af21cea816a55391e6650f870f
+      projectPath: Library\Artifacts\2a\2a8907af21cea816a55391e6650f870f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\2f\2f12d92082c4a9bf59f2b2d273124247
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\2f\2f12d92082c4a9bf59f2b2d273124247
+      projectPath: Library\Artifacts\2f\2f12d92082c4a9bf59f2b2d273124247
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+      projectPath: Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\45\45f8b2963391ef78673a21b46816acdf
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\45\45f8b2963391ef78673a21b46816acdf
+      projectPath: Library\Artifacts\45\45f8b2963391ef78673a21b46816acdf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\48\48fbba0ac3fa280af7e3a2ce4f7b3494
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\48\48fbba0ac3fa280af7e3a2ce4f7b3494
+      projectPath: Library\Artifacts\48\48fbba0ac3fa280af7e3a2ce4f7b3494
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\51\51117a9d31d2525069bb8c32dc96eca1
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\51\51117a9d31d2525069bb8c32dc96eca1
+      projectPath: Library\Artifacts\51\51117a9d31d2525069bb8c32dc96eca1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+      projectPath: Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\63\6348d923bd30771eebe154e100c12a7d
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\63\6348d923bd30771eebe154e100c12a7d
+      projectPath: Library\Artifacts\63\6348d923bd30771eebe154e100c12a7d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\68\68b0ff4ec0ca895e53c2007dddcf7fc0
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\68\68b0ff4ec0ca895e53c2007dddcf7fc0
+      projectPath: Library\Artifacts\68\68b0ff4ec0ca895e53c2007dddcf7fc0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\80\809377c48f258da563f7cb27c52649bb
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\80\809377c48f258da563f7cb27c52649bb
+      projectPath: Library\Artifacts\80\809377c48f258da563f7cb27c52649bb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\88\88570063e2ba3217a1a6172624d082e4
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\88\88570063e2ba3217a1a6172624d082e4
+      projectPath: Library\Artifacts\88\88570063e2ba3217a1a6172624d082e4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\8e\8e6106172762ec37b37564de8182bc2f
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\8e\8e6106172762ec37b37564de8182bc2f
+      projectPath: Library\Artifacts\8e\8e6106172762ec37b37564de8182bc2f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+      projectPath: Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\99\99cfe6ff55cf3805b77279511618a6fe
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\99\99cfe6ff55cf3805b77279511618a6fe
+      projectPath: Library\Artifacts\99\99cfe6ff55cf3805b77279511618a6fe
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+      projectPath: Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\c3\c3989e9f791b6b2f559d82424e2ae629
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\c3\c3989e9f791b6b2f559d82424e2ae629
+      projectPath: Library\Artifacts\c3\c3989e9f791b6b2f559d82424e2ae629
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\d2\d2760375444594ba306e533ac8b133dd
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\d2\d2760375444594ba306e533ac8b133dd
+      projectPath: Library\Artifacts\d2\d2760375444594ba306e533ac8b133dd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\e5\e59003b6bf854bb3038124784e939640
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\e5\e59003b6bf854bb3038124784e939640
+      projectPath: Library\Artifacts\e5\e59003b6bf854bb3038124784e939640
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\f3\f334de5886c1d436cf10b229425ddb08
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\f3\f334de5886c1d436cf10b229425ddb08
+      projectPath: Library\Artifacts\f3\f334de5886c1d436cf10b229425ddb08
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\ff\ff9949ad7f6b946596cc72a35282a0ea
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\ff\ff9949ad7f6b946596cc72a35282a0ea
+      projectPath: Library\Artifacts\ff\ff9949ad7f6b946596cc72a35282a0ea
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\SourceAssetDB
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\expandedItems
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: f671e2729fae9c48c45942ff318014e423a03ad1
+    mergeA: 
+    mergeB: 
+    authorName: Jackson Levitt
+    authorEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitName: Jackson Levitt
+    summary: Update .gitignore
+    description: 
+    timeString: 2020-10-30T21:42:38.000-04:00
+    commitTimeString: 2020-10-30T21:42:38.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 7379db92c0561357ed9d4c2e57fa03002b91c5eb
+    mergeA: 
+    mergeB: 
+    authorName: Jackson Levitt
+    authorEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update .gitignore
+    description: 
+    timeString: 2020-10-30T21:39:36.000-04:00
+    commitTimeString: 2020-10-30T21:39:36.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: ca3169c0df28f70cd3a4d2d4ad5714c83bc56834
+    mergeA: 
+    mergeB: 
+    authorName: Jackson Levitt
+    authorEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitEmail: 47047592+crazyjackel@users.noreply.github.com
+    commitName: Jackson Levitt
+    summary: Fixes to Pr/5
+    description: Moved IGME 202 Into project instead of as package
+    timeString: 2020-10-30T21:30:52.000-04:00
+    commitTimeString: 2020-10-30T21:30:52.000-04:00
+    changes:
+    - path: 219FinalProject\Assets\FPSController.asmdef
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\FPSController.asmdef
+      projectPath: Assets\FPSController.asmdef
+      originalPath: igme202-FPSController-master\FPSController.asmdef
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\FPSController.asmdef.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\FPSController.asmdef.meta
+      projectPath: Assets\FPSController.asmdef.meta
+      originalPath: igme202-FPSController-master\FPSController.asmdef.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\LICENSE.md
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\LICENSE.md
+      projectPath: Assets\LICENSE.md
+      originalPath: igme202-FPSController-master\LICENSE.md
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\LICENSE.md.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\LICENSE.md.meta
+      projectPath: Assets\LICENSE.md.meta
+      originalPath: igme202-FPSController-master\LICENSE.md.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Prefabs.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: igme202-FPSController-master\Prefabs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Prefabs\FPSController.prefab
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Prefabs\FPSController.prefab
+      projectPath: Assets\Prefabs\FPSController.prefab
+      originalPath: igme202-FPSController-master\Prefabs\FPSController.prefab
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Prefabs\FPSController.prefab.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Prefabs\FPSController.prefab.meta
+      projectPath: Assets\Prefabs\FPSController.prefab.meta
+      originalPath: igme202-FPSController-master\Prefabs\FPSController.prefab.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Scripts.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: igme202-FPSController-master\Scripts.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Scripts\FPSController.cs
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Scripts\FPSController.cs
+      projectPath: Assets\Scripts\FPSController.cs
+      originalPath: igme202-FPSController-master\Scripts\FPSController.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Scripts\FPSController.cs.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Scripts\FPSController.cs.meta
+      projectPath: Assets\Scripts\FPSController.cs.meta
+      originalPath: igme202-FPSController-master\Scripts\FPSController.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Scripts\FPSMouseLook.cs
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Scripts\FPSMouseLook.cs
+      projectPath: Assets\Scripts\FPSMouseLook.cs
+      originalPath: igme202-FPSController-master\Scripts\FPSMouseLook.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Scripts\FPSMouseLook.cs.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Scripts\FPSMouseLook.cs.meta
+      projectPath: Assets\Scripts\FPSMouseLook.cs.meta
+      originalPath: igme202-FPSController-master\Scripts\FPSMouseLook.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Scripts\ScriptsRef.asmref
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Scripts\ScriptsRef.asmref
+      projectPath: Assets\Scripts\ScriptsRef.asmref
+      originalPath: igme202-FPSController-master\Scripts\ScriptsRef.asmref
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\Scripts\ScriptsRef.asmref.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\Scripts\ScriptsRef.asmref.meta
+      projectPath: Assets\Scripts\ScriptsRef.asmref.meta
+      originalPath: igme202-FPSController-master\Scripts\ScriptsRef.asmref.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\package.json
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\package.json
+      projectPath: Assets\package.json
+      originalPath: igme202-FPSController-master\package.json
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Assets\package.json.meta
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Assets\package.json.meta
+      projectPath: Assets\package.json.meta
+      originalPath: igme202-FPSController-master\package.json.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ArtifactDB
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\01\019dd0893df58236473ab36371ffbf94
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\01\019dd0893df58236473ab36371ffbf94
+      projectPath: Library\Artifacts\01\019dd0893df58236473ab36371ffbf94
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+      projectPath: Library\Artifacts\05\05e062b975193b2b68c0feda08fb81f2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\07\072e6fe17dfecedbbeb3b05a4b88b114
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\07\072e6fe17dfecedbbeb3b05a4b88b114
+      projectPath: Library\Artifacts\07\072e6fe17dfecedbbeb3b05a4b88b114
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\13\1319b72f02647bb5b2379bba3a50f87d
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\13\1319b72f02647bb5b2379bba3a50f87d
+      projectPath: Library\Artifacts\13\1319b72f02647bb5b2379bba3a50f87d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\1d\1d14012b20b24dc0ff8f0af34e762fb5
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\1d\1d14012b20b24dc0ff8f0af34e762fb5
+      projectPath: Library\Artifacts\1d\1d14012b20b24dc0ff8f0af34e762fb5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\1d\1db93ba9c79d89f17549507cc1290998
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\1d\1db93ba9c79d89f17549507cc1290998
+      projectPath: Library\Artifacts\1d\1db93ba9c79d89f17549507cc1290998
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\21\2198db05ae2f5cc49ccee28e1b7f4715
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\21\2198db05ae2f5cc49ccee28e1b7f4715
+      projectPath: Library\Artifacts\21\2198db05ae2f5cc49ccee28e1b7f4715
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\23\236288889bebc307ac68e675a5c41a39
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\23\236288889bebc307ac68e675a5c41a39
+      projectPath: Library\Artifacts\23\236288889bebc307ac68e675a5c41a39
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\24\24140ec3782471f1f837cd41c12e92b4
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\24\24140ec3782471f1f837cd41c12e92b4
+      projectPath: Library\Artifacts\24\24140ec3782471f1f837cd41c12e92b4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\25\25ef158e85d1b58872ba2855abaa5845
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\25\25ef158e85d1b58872ba2855abaa5845
+      projectPath: Library\Artifacts\25\25ef158e85d1b58872ba2855abaa5845
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\26\26d2103202fdd0101385d88670c12180
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\26\26d2103202fdd0101385d88670c12180
+      projectPath: Library\Artifacts\26\26d2103202fdd0101385d88670c12180
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\27\27e40bdd647fecf918146a2755fc4268
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\27\27e40bdd647fecf918146a2755fc4268
+      projectPath: Library\Artifacts\27\27e40bdd647fecf918146a2755fc4268
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\3b\3b3ec7762b0292b361b42ece9c4ff2ce
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\3b\3b3ec7762b0292b361b42ece9c4ff2ce
+      projectPath: Library\Artifacts\3b\3b3ec7762b0292b361b42ece9c4ff2ce
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\3b\3bc179e674a803cae8edbaba99dad647
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\3b\3bc179e674a803cae8edbaba99dad647
+      projectPath: Library\Artifacts\3b\3bc179e674a803cae8edbaba99dad647
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+      projectPath: Library\Artifacts\3c\3ce2969d311162b63a869ae315d10d14
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\40\4046e948d925f4bf398c103a78e2738e
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\40\4046e948d925f4bf398c103a78e2738e
+      projectPath: Library\Artifacts\40\4046e948d925f4bf398c103a78e2738e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\44\449294be834019fa4f4666a76098d392
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\44\449294be834019fa4f4666a76098d392
+      projectPath: Library\Artifacts\44\449294be834019fa4f4666a76098d392
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\49\49245f34c289ef4c4d0b1b8caf1a5e9d
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\49\49245f34c289ef4c4d0b1b8caf1a5e9d
+      projectPath: Library\Artifacts\49\49245f34c289ef4c4d0b1b8caf1a5e9d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\50\50af37874a64bd21e6556793161e8c8f
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\50\50af37874a64bd21e6556793161e8c8f
+      projectPath: Library\Artifacts\50\50af37874a64bd21e6556793161e8c8f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\51\51e36f58d932afbc571725c4052b4d7c
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\51\51e36f58d932afbc571725c4052b4d7c
+      projectPath: Library\Artifacts\51\51e36f58d932afbc571725c4052b4d7c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\55\5528d7629dd6850a971c7b61ee779e94
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\55\5528d7629dd6850a971c7b61ee779e94
+      projectPath: Library\Artifacts\55\5528d7629dd6850a971c7b61ee779e94
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\5c\5c1853d4870d74ac862c28d4423d4d72
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\5c\5c1853d4870d74ac862c28d4423d4d72
+      projectPath: Library\Artifacts\5c\5c1853d4870d74ac862c28d4423d4d72
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\5c\5c3af187c5410bd921fb1f6a5f3061bb
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\5c\5c3af187c5410bd921fb1f6a5f3061bb
+      projectPath: Library\Artifacts\5c\5c3af187c5410bd921fb1f6a5f3061bb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\5e\5e8f681e0d99b1762104f30f5379ed72
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\5e\5e8f681e0d99b1762104f30f5379ed72
+      projectPath: Library\Artifacts\5e\5e8f681e0d99b1762104f30f5379ed72
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\5f\5f1b1f00c3055896a9c2c37bdb4c848e
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\5f\5f1b1f00c3055896a9c2c37bdb4c848e
+      projectPath: Library\Artifacts\5f\5f1b1f00c3055896a9c2c37bdb4c848e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\5f\5fe607604d6e55e4ac8bfbe7fff25c5e
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\5f\5fe607604d6e55e4ac8bfbe7fff25c5e
+      projectPath: Library\Artifacts\5f\5fe607604d6e55e4ac8bfbe7fff25c5e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+      projectPath: Library\Artifacts\5f\5ff846ceff6bead4ceb6d4b703c539e0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\64\64c3bd24f455f6131fddc02cbe0082ea
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\64\64c3bd24f455f6131fddc02cbe0082ea
+      projectPath: Library\Artifacts\64\64c3bd24f455f6131fddc02cbe0082ea
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\66\666d61e84eaef6ac0e499d017dc278de
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\66\666d61e84eaef6ac0e499d017dc278de
+      projectPath: Library\Artifacts\66\666d61e84eaef6ac0e499d017dc278de
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\67\67bf16883ebeef8e6070bd379b43e834
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\67\67bf16883ebeef8e6070bd379b43e834
+      projectPath: Library\Artifacts\67\67bf16883ebeef8e6070bd379b43e834
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\6c\6cf0c72a67c4e49c10af0f95e8298e26
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\6c\6cf0c72a67c4e49c10af0f95e8298e26
+      projectPath: Library\Artifacts\6c\6cf0c72a67c4e49c10af0f95e8298e26
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\6f\6f55e85330f36a27ee36e64565e2dde4
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\6f\6f55e85330f36a27ee36e64565e2dde4
+      projectPath: Library\Artifacts\6f\6f55e85330f36a27ee36e64565e2dde4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\75\75427b2c409da04ac1d7cd01f9b82638
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\75\75427b2c409da04ac1d7cd01f9b82638
+      projectPath: Library\Artifacts\75\75427b2c409da04ac1d7cd01f9b82638
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\78\78dd0e4327f3edf8d05f369b4a4ffa8f
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\78\78dd0e4327f3edf8d05f369b4a4ffa8f
+      projectPath: Library\Artifacts\78\78dd0e4327f3edf8d05f369b4a4ffa8f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\80\808bc8469c23a0e96e1bfe2e558d6243
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\80\808bc8469c23a0e96e1bfe2e558d6243
+      projectPath: Library\Artifacts\80\808bc8469c23a0e96e1bfe2e558d6243
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\83\83e0f49f9836f8654f7d8f828057e3f3
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\83\83e0f49f9836f8654f7d8f828057e3f3
+      projectPath: Library\Artifacts\83\83e0f49f9836f8654f7d8f828057e3f3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\84\843a64b78f2a9122fa49fdc43b625841
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\84\843a64b78f2a9122fa49fdc43b625841
+      projectPath: Library\Artifacts\84\843a64b78f2a9122fa49fdc43b625841
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\87\871d25f3b1c450eddb183d1101bc573d
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\87\871d25f3b1c450eddb183d1101bc573d
+      projectPath: Library\Artifacts\87\871d25f3b1c450eddb183d1101bc573d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\8a\8a5ead85a2af622304f1e002ddaff27e
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\8a\8a5ead85a2af622304f1e002ddaff27e
+      projectPath: Library\Artifacts\8a\8a5ead85a2af622304f1e002ddaff27e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\8b\8bc2000574010e22ebdcd88915ac2bb6
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\8b\8bc2000574010e22ebdcd88915ac2bb6
+      projectPath: Library\Artifacts\8b\8bc2000574010e22ebdcd88915ac2bb6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+      projectPath: Library\Artifacts\8e\8e7c47fa0cef51347a67bc0af40df276
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\93\93d4dd79646435c06a05bfad09d998f0
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\93\93d4dd79646435c06a05bfad09d998f0
+      projectPath: Library\Artifacts\93\93d4dd79646435c06a05bfad09d998f0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\99\99c4bf2197d974656b34127a94049efc
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\99\99c4bf2197d974656b34127a94049efc
+      projectPath: Library\Artifacts\99\99c4bf2197d974656b34127a94049efc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+      projectPath: Library\Artifacts\9e\9e58d06bcebcd9a36f6591f29b106536
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\a2\a2083fcd38653d30f9e4db4e3df17b40
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\a2\a2083fcd38653d30f9e4db4e3df17b40
+      projectPath: Library\Artifacts\a2\a2083fcd38653d30f9e4db4e3df17b40
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\ac\ac8a0ff26279c5f588679501f844dc25
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\ac\ac8a0ff26279c5f588679501f844dc25
+      projectPath: Library\Artifacts\ac\ac8a0ff26279c5f588679501f844dc25
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\b2\b2ca309f0bba7de0c87c985742c34657
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\b2\b2ca309f0bba7de0c87c985742c34657
+      projectPath: Library\Artifacts\b2\b2ca309f0bba7de0c87c985742c34657
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\ba\ba8c499f4063c0f67e6d0135993e6002
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\ba\ba8c499f4063c0f67e6d0135993e6002
+      projectPath: Library\Artifacts\ba\ba8c499f4063c0f67e6d0135993e6002
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\be\bed0c9257d6bfbb194adc4b0b1b181fc
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\be\bed0c9257d6bfbb194adc4b0b1b181fc
+      projectPath: Library\Artifacts\be\bed0c9257d6bfbb194adc4b0b1b181fc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\c5\c51f8d9031375210385887ffc448ba0f
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\c5\c51f8d9031375210385887ffc448ba0f
+      projectPath: Library\Artifacts\c5\c51f8d9031375210385887ffc448ba0f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\cc\ccf4a24bdbf3b2eeeadc3e2a210e67cf
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\cc\ccf4a24bdbf3b2eeeadc3e2a210e67cf
+      projectPath: Library\Artifacts\cc\ccf4a24bdbf3b2eeeadc3e2a210e67cf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\cd\cdcb4e0cb815aa3b3557273724f10678
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\cd\cdcb4e0cb815aa3b3557273724f10678
+      projectPath: Library\Artifacts\cd\cdcb4e0cb815aa3b3557273724f10678
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\d0\d052c9ae0fe138602359d6d7102ced85
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\d0\d052c9ae0fe138602359d6d7102ced85
+      projectPath: Library\Artifacts\d0\d052c9ae0fe138602359d6d7102ced85
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\da\da0ed8580d7251e04604c24d773e679d
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\da\da0ed8580d7251e04604c24d773e679d
+      projectPath: Library\Artifacts\da\da0ed8580d7251e04604c24d773e679d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\dd\ddd1f714deb8b1b49d7863613adef13d
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\dd\ddd1f714deb8b1b49d7863613adef13d
+      projectPath: Library\Artifacts\dd\ddd1f714deb8b1b49d7863613adef13d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\de\de8751cb5e91a78008dbef34b98e83f3
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\de\de8751cb5e91a78008dbef34b98e83f3
+      projectPath: Library\Artifacts\de\de8751cb5e91a78008dbef34b98e83f3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\e0\e0d255b520de6a72cbb9c40713ec3b06
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\e0\e0d255b520de6a72cbb9c40713ec3b06
+      projectPath: Library\Artifacts\e0\e0d255b520de6a72cbb9c40713ec3b06
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\e1\e1e507beb2b8262eb1e4a2c7e73c0b65
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\e1\e1e507beb2b8262eb1e4a2c7e73c0b65
+      projectPath: Library\Artifacts\e1\e1e507beb2b8262eb1e4a2c7e73c0b65
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\e2\e23383dad66f77d6d9e5acf78fe88d3a
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\e2\e23383dad66f77d6d9e5acf78fe88d3a
+      projectPath: Library\Artifacts\e2\e23383dad66f77d6d9e5acf78fe88d3a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\e2\e23749ba43ace650c549798e300c656b
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\e2\e23749ba43ace650c549798e300c656b
+      projectPath: Library\Artifacts\e2\e23749ba43ace650c549798e300c656b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\ef\ef287b87dd1f300196239575d38b513d
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\ef\ef287b87dd1f300196239575d38b513d
+      projectPath: Library\Artifacts\ef\ef287b87dd1f300196239575d38b513d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\ef\efd64751edfd3e78f629de7ce49f33f6
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\ef\efd64751edfd3e78f629de7ce49f33f6
+      projectPath: Library\Artifacts\ef\efd64751edfd3e78f629de7ce49f33f6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\fa\fae38da531e470a7fb703e57072b4161
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\fa\fae38da531e470a7fb703e57072b4161
+      projectPath: Library\Artifacts\fa\fae38da531e470a7fb703e57072b4161
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\fb\fb5bfe49edd1e5c4e0fbe2514e21a9a6
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\fb\fb5bfe49edd1e5c4e0fbe2514e21a9a6
+      projectPath: Library\Artifacts\fb\fb5bfe49edd1e5c4e0fbe2514e21a9a6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\Artifacts\fd\fd74f4e27985fbb06477d4d173dca371
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\Artifacts\fd\fd74f4e27985fbb06477d4d173dca371
+      projectPath: Library\Artifacts\fd\fd74f4e27985fbb06477d4d173dca371
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\FPSController.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\FPSController.dll
+      projectPath: Library\ScriptAssemblies\FPSController.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+      projectPath: Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+      projectPath: Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+      projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+      projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.ProBuilder.dll
+      projectPath: Library\ScriptAssemblies\Unity.ProBuilder.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.ProGrids.Editor.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.ProGrids.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.ProGrids.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.ProGrids.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.ProGrids.dll
+      projectPath: Library\ScriptAssemblies\Unity.ProGrids.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Settings.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\SourceAssetDB
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\expandedItems
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: 219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Users\Jack\Documents\IGME-219-Final-Project\219FinalProject\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 6c65a4816da0306e498607c812075ad2d311b8c9
     mergeA: 
     mergeB: 
