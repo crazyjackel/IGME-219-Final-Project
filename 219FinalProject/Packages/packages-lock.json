@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.igme202.fpscontrollerim": {
-      "version": "file:D:/Docs/Git/IGME-219-Final-Project/igme202-FPSController-master",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
