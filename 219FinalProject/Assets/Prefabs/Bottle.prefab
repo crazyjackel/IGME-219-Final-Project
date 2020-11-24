@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7503948953183236010}
   - component: {fileID: 5748729034799733600}
   m_Layer: 0
-  m_Name: Prop_Bottle_JCv1
+  m_Name: Bottle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -58,7 +58,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 5561349426305759274, guid: 195755c851b5b024d8700d8bb099a22a, type: 3}
+  - {fileID: 2100000, guid: 164ef1368221cf14b92e04a595d33f4b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
