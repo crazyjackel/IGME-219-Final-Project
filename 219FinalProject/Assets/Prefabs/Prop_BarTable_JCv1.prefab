@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5468185967636650278}
   - component: {fileID: 8956883125276579459}
   - component: {fileID: 6605033490098283081}
+  - component: {fileID: 3128415982728953632}
   m_Layer: 0
   m_Name: Prop_BarTable_JCv1
   m_TagString: Untagged
@@ -79,3 +80,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &3128415982728953632
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4659315242611917724}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 9, y: 3, z: 2}
+  m_Center: {x: 0, y: -1.2269456, z: 0}
